@@ -630,7 +630,7 @@ ol {
 }
 
 .footer_icon img {
-    max-width: 40px!important;
+    max-width: 40px;
     margin-right: 10px;
 }
 
