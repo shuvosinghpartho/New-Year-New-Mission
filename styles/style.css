@@ -23,9 +23,6 @@ ol {
     margin: auto;
 }
 
-
-/* banner part css */
-
 #banner_part {
     margin-top: 50px;
 }
@@ -78,10 +75,7 @@ ol {
     display: block;
 }
 
-
-/* category part css */
-
-#caterogory_part {
+#category_part {
     margin-top: 60px;
 }
 
@@ -120,9 +114,6 @@ ol {
     max-width: 800px;
     text-align: center;
 }
-
-
-/* midnight_part css */
 
 #midnight_part {
     margin-top: 90px;
@@ -183,9 +174,6 @@ ol {
     text-transform: uppercase;
 }
 
-
-/* new partk part */
-
 #new_park {
     margin-top: 60px;
 }
@@ -229,9 +217,6 @@ ol {
     padding: 10px 25px;
     border-radius: 6px;
 }
-
-
-/* coming soon part css */
 
 #coming_soon_part {
     margin: 120px 0 100px 0;
@@ -318,9 +303,6 @@ ol {
     margin-top: 30px;
 }
 
-
-/* functional_part */
-
 #functional_part {
     margin-bottom: 100px;
 }
@@ -397,9 +379,6 @@ ol {
 .percent_img img {
     max-width: 200px;
 }
-
-
-/* portfolio part */
 
 #portfolio_part {
     margin-bottom: 100px;
@@ -512,9 +491,6 @@ ol {
     transform: translateY(-10px);
 }
 
-
-/* subscribe part css */
-
 .subscribe {
     background: #FFF2F2;
     padding: 100px;
@@ -581,9 +557,6 @@ ol {
 .sub_btn span {
     color: #ffffff;
 }
-
-
-/* footer part */
 
 #footer_part {
     background: #070211;
